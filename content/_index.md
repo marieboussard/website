@@ -110,6 +110,16 @@ sections:
       text: |-
         LU1MA001 - Mathématiques pour les Sciences 1 (First year mathematics course at Sorbonne University, first semester)
         LU1MA002 - Mathématiques pour les Sciences 2 (First year mathematics course at Sorbonne University, second semester)
+
+  # - block: markdown
+  #   id: events
+  #   content:
+  #     title: 'Academic events'
+  #     subtitle: ''
+  #     text: |-
+
+
+
   - block: markdown
     id: contact
     content:
