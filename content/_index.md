@@ -62,16 +62,16 @@ sections:
   #       exclude_featured: false
   #   design:
   #     view: citation
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     view: article-grid
-  #     columns: 1
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - June 2025 - Poster: "Quantifying numerical diffusion for ocean models using a projection method"  
+    design:
+      view: article-grid
+      columns: 1
   # - block: collection
   #   id: news
   #   content:
@@ -108,17 +108,17 @@ sections:
       title: 'Teaching'
       subtitle: ''
       text: |-
+        **2024-2025**  
         **LU1MA001 - Mathématiques pour les Sciences 1**  
-        *(First year mathematics course at Sorbonne University, first semester)*  
-
+        *First year mathematics course at Sorbonne University, first semester*  
         **LU1MA002 - Mathématiques pour les Sciences 2**  
-        *(First year mathematics course at Sorbonne University, second semester)*  
+        *First year mathematics course at Sorbonne University, second semester*  
 
+        **2025-2026**  
         **LU3MA232 - Analyse Numérique**  
-        *(Third year numerical analysis course at Sorbonne University, first semester)*  
-        
+        *Third year numerical analysis course at Sorbonne University, first semester*  
         **LU2MA211 - Analyse II**  
-        *(Second year integration course at Sorbonne University, second semester)*  
+        *Second year integration course at Sorbonne University, second semester*  
 
   # - block: markdown
   #   id: events
