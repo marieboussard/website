@@ -38,7 +38,7 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        My research work focuses on quantification of the numerical diffusion appearing when solving systems of conservation laws, with a special interest on equations describing ocean circulation.
+        My research work focuses on the quantification of the numerical entropy loss caused by finite-volume schemes, with a special interest on solving equations describing ocean circulation.
     design:
       columns: '1'
   # - block: collection
@@ -65,11 +65,20 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
+      text: |-
+        **June 2025 - Poster**: *Quantifying numerical diffusion for ocean models using a projection method*  
+        Numerical Methods for Hyperbolic Problems - Darmstadt, Germany  
+
+        **Oct 2025 – Talk**: *Quantifying numerical diffusion for ocean circulation models using a projection method*  
+        PhD’s LJLL seminar, Sorbonne Université, Paris  
+
+        **Dec 2025 - Talk**: *Quantifying Numerical Diffusion for ocean circulation models using a projection method*  
+        ANGE working group, Inria, Sorbonne Université, Paris
       filters:
         folders:
           - event
-          #- June 2025 - Poster: "Quantifying numerical diffusion for ocean models using a projection method"  
+          #-   
     design:
       view: article-grid
       columns: 1
@@ -111,15 +120,15 @@ sections:
       text: |-
         **2024-2025**  
         **LU1MA001 - Mathématiques pour les Sciences 1**  
-        *First year mathematics course at Sorbonne University, first semester*  
+        *First year undergraduate mathematics course at Sorbonne University, first semester*  
         **LU1MA002 - Mathématiques pour les Sciences 2**  
-        *First year mathematics course at Sorbonne University, second semester*  
+        *First year undergraduate mathematics course at Sorbonne University, second semester*  
 
         **2025-2026**  
         **LU3MA232 - Analyse Numérique**  
-        *Third year numerical analysis course at Sorbonne University, first semester*  
+        *Third year undergraduate numerical analysis course at Sorbonne University, first semester*  
         **LU2MA211 - Analyse II**  
-        *Second year integration course at Sorbonne University, second semester*  
+        *Second year undergraduate integration course at Sorbonne University, second semester*  
 
   # - block: markdown
   #   id: events
