@@ -110,6 +110,8 @@ sections:
       text: |-
         LU1MA001 - Mathématiques pour les Sciences 1 (First year mathematics course at Sorbonne University, first semester)
         LU1MA002 - Mathématiques pour les Sciences 2 (First year mathematics course at Sorbonne University, second semester)
+        LU3MA232 - Analyse Numérique (Third year numerical analysis course at Sorbonne University, first semester)
+        LU2MA211 - Analyse II (Second year integration course at Sorbonne University, second semester)
 
   # - block: markdown
   #   id: events
