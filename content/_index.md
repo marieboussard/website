@@ -68,7 +68,8 @@ sections:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - June 2025 - Poster: "Quantifying numerical diffusion for ocean models using a projection method"  
+          - event
+          #- June 2025 - Poster: "Quantifying numerical diffusion for ocean models using a projection method"  
     design:
       view: article-grid
       columns: 1
